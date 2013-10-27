@@ -1,0 +1,7 @@
+bin/build/
+.idea/
+*/bin/*
+*/build/*
+*/gen/*
+*.iml
+*/.settings/*
