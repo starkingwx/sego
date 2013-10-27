@@ -5,4 +5,12 @@
     <string name="action_settings">Settings</string>
     <string name="pet_stat">Pet State</string>
 
+    <string name="nick_name">昵称：%s</string>
+    <string name="breed">品种</string>
+    <string name="age">年龄</string>
+    <string name="body_height">身高</string>
+    <string name="body_weight">体重</string>
+    <string name="today">今天</string>
+    <string name="history">历史</string>
+    <string name="health_and_diet">健康饮食</string>
 </resources>
